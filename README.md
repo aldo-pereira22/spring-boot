@@ -1,3 +1,3 @@
-# spring-boot
+# spring-data
 
-Curso apra aprendizado do framework-srping boot.
+Curso apra aprendizado do framework-srping boot utilizando o spring-data.
